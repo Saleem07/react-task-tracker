@@ -2,4 +2,4 @@
 
 Task Tracker with React and fake JSON server
 
-![Task tracker](https://imgur.com/a/FpRPYRS)
+![Task tracker](https://imgur.com/ATBeW3T)
